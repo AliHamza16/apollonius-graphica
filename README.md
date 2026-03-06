@@ -8,7 +8,6 @@ It is not a general-purpose graphing calculator, it contains basic geometric obj
 ## Building
 
 ```
-mkdir build
 cmake -B build
 cmake --build build
 ```
